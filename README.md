@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Emilia Hepolehto 👋
+
+👩🏻‍💻 Software Engineer at Nortal | 🇫🇮 Based in Jyväskylä, Finland
+
+Backend & Integrations | C# .NET | Certified Azure Developer | Certified Frends iPaaS 
+
+Welcome to my personal GitHub, where I explore areas beyond my professional life
 
 <!--
 **Mutaaa/Mutaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
