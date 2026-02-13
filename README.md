@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emiliah/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hepolehto@gmail.com)
 
-> Certified Integration Developer and Azure Developer specializing in Frends iPaaS integrations, C# .NET microservices, and React frontend.
+> Certified Integration Developer and Azure Developer specializing in Frends iPaaS integrations and C# .NET microservices.
 
 
 ### 🚀 Welcome to my personal GitHub
